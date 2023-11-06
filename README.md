@@ -1,10 +1,10 @@
-# 💫 Hakkımda:
+# 💫 About Me:
 <h2>Merhaba. Ben Yasin. 7 yıldır yazılımla uğraşıyorum.</h2>
 <ul dir="auto">
-  <li>🔭&nbsp Aktif olarak <a href="https://www.ankara.edu.tr/">Ankara Üniversitesinde</a> öğrenciyim.</li>
-  <li>🌱&nbsp Şu anda C# ve Lua öğrenmekteyim.</li>
-  <li>💬&nbsp Bana bildiğimi belirttiğim birçok dil hakkında soru sorabilirsin.</li>
-  <li>⚡&nbsp Video/Fotoğraf Editörlüğü, Siber Güvenlik, Uçaklar, Motorlu taşıtlar gibi alanlara ilgi sahibiyim.</li>
+  <li>🔭&nbsp I am an active student at <a href="https://www.ankara.edu.tr/en/">Ankara University</a>.</li>
+  <li>🌱&nbsp I am currently learning <b>C#</b> and <b>Lua</b>.</li>
+  <li>💬&nbsp You can ask me questions about many languages I know.</li>
+  <li>⚡&nbsp I am interested in areas such as Video / Photo Editing, Cyber Security, Airplanes, Motor vehicles.</li>
 </ul>
 
 
