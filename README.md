@@ -7,7 +7,14 @@
   <li>⚡&nbsp I am interested in areas such as Video / Photo Editing, Cyber Security, Airplanes, Motor vehicles.</li>
 </ul>
 
+## ⛏️ IDE Tools:
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,atom)](https://skillicons.dev)
 
+## 👌🏻 Languages I know best:
+[![My Skills](https://skillicons.dev/icons?i=java,cs,js,nodejs,php,lua)](https://skillicons.dev)
+
+## 📂 Databases I know best:
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tyasin0) 
