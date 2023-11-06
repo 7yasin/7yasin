@@ -1,6 +1,6 @@
 # 💫 Hakkımda:
-<h3>Merhaba. Ben Yasin. 7 yıldır yazılımla uğraşıyorum.</h3><br>
-
+<h2>Merhaba. Ben Yasin. 7 yıldır yazılımla uğraşıyorum.</h2>
+<hr size="1px">
 <ul dir="auto">
   <li>🔭 Aktif olarak <a href="https://www.ankara.edu.tr/">Ankara Üniversitesinde</a> öğrenciyim.</li>
   <li>🌱 Şu anda C# ve Lua öğrenmekteyim.</li>
