@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhaba. Ben Yasin. 7 yıldır yazılımla uğraşıyorum.<br><br>🔭 Aktif olarak Ankara Üniversitesinde öğrenciyim.<br>🌱 Şu anda C# ve Lua öğrenmekteyim.<br>💬 Bana bildiğimi belirttiğim birçok dil hakkında soru sorabilirsin.<br>⚡ Video/Fotoğraf Editörlüğü, Siber Güvenlik, Uçaklar, Motorlu taşıtlar gibi alanlara ilgi sahibiyim.<br><br>
+<b>Merhaba. Ben Yasin. 7 yıldır yazılımla uğraşıyorum.</b><br><br>🔭 Aktif olarak Ankara Üniversitesinde öğrenciyim.<br>🌱 Şu anda C# ve Lua öğrenmekteyim.<br>💬 Bana bildiğimi belirttiğim birçok dil hakkında soru sorabilirsin.<br>⚡ Video/Fotoğraf Editörlüğü, Siber Güvenlik, Uçaklar, Motorlu taşıtlar gibi alanlara ilgi sahibiyim.<br><br>
 
 
 ## 🌐 Socials:
