@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Merhaba. Ben Yasin. 7 yıldır yazılımla uğraşıyorum.</h2>
+<h2>Hello there. I am Yasin. I have been working with computer software for seven years.</h2>
 <ul dir="auto">
   <li>🔭&nbsp I am an active student at <a href="https://www.ankara.edu.tr/en/">Ankara University</a>.</li>
   <li>🌱&nbsp I am currently learning <b>C#</b> and <b>Lua</b>.</li>
