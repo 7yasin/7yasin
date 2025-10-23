@@ -1,5 +1,3 @@
-# Yasin Tekiner
-
 Backend developer — Node.js · Java · Python  
 
 ## About
